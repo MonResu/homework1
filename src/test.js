@@ -1,2 +1,2 @@
-const foo = 'bar';
+let foo = 'bar';
 foo = 'baz';
